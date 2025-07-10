@@ -1,5 +1,4 @@
 <p align="center">
-  <img src="./client/public/mern.png" alt="Logo" width="40%" height="30%" />
   <h3 align="center">💰 Expensify – MERN Stack Expense Tracker</h3>
 </p>
 
