@@ -1,48 +1,33 @@
 <p align="center">
-<img src="./client/public/mern.png" alt="Logo" width="40%" height="30%" justify-items="center"/>
-<h3 align="center">🎉 MERN Stack Expense Tracker 🪙✍️</h3>
+  <img src="./client/public/mern.png" alt="Logo" width="40%" height="30%" />
+  <h3 align="center">💰 Expensify – MERN Stack Expense Tracker</h3>
 </p>
 
 ---
 
-### 🔎 What is in MERN stack? ✨
-MERN stack is a web development framework. It consists of MongoDB, ExpressJS, ReactJS, and NodeJS as its working components.
+## 📌 About the Project
 
-### 🎈 What is this app for? 💵 🏧
-This expense tracker app allows you to monitor and categorize different expenses or incomes. Identify and eliminate wasteful spending habits in your financial life. Moreover, consistently tracking your expenses will help you maintain control of your finances, and promote better financial habits like saving and investing.
+**Expensify** is a full-stack expense tracking application built with the **MERN stack** (MongoDB, Express.js, React.js, Node.js).  
+It allows users to **record, categorize, and manage their daily expenses and incomes** efficiently.
 
----
-
-### 📢 Features Demo 
-
-![](./client/public/demo.gif)
+By providing a clean interface and real-time updates, Expensify encourages better budgeting habits and helps users maintain control over their personal finances.
 
 ---
 
-### 🪛 Getting Started
+## 🔍 What Is the MERN Stack?
 
-The quickest way to get started as shown below:
-
-#### CD into Server Folder 
-
- `npm i && npm run devStart`
-
-#### CD into Client Folder 
-
- `npm i && npm start`
+- **MongoDB** – NoSQL database for storing transaction data
+- **Express.js** – Web framework for handling backend routes and APIs
+- **React.js** – Frontend library for building the user interface
+- **Node.js** – JavaScript runtime for backend development
 
 ---
 
-### 🔩 Techniques & Tools Used
+## ✨ Key Features
 
-* Redux Toolkit
-* RTK Query
-* Tailwind CSS
-* React Components
-* MongoDB Atlas
-* Lodash
-* Express Framework
+- 🪪 **JWT-based Authentication** (Login/Signup)
+- ➕ **Add, Edit, and Delete** expenses and incomes
+- 📊 **Categorize and track** spending habits
+- 🧠 Built with **Redux Toolkit** and **RTK Query** for efficient state management
+- 🎨 **Responsive UI** using Tailwind CSS
 
----
-
-### 🚩 [Reference](https://youtu.be/mhM-blTHBz8 "Reference")
